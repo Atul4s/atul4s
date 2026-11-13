@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Aspiring Developer | Passionate About Coding & Problem-Solving<br><br>I am a developer with a strong interest in building user-friendly applications and learning new technologies. Currently exploring [Android/Web Development], I enjoy working with [mention technologies, e.g., Java, Kotlin, HTML, CSS, JavaScript]. I am eager to collaborate on projects that challenge me and help me grow as a developer.<br><br>🔹 Passionate about clean code & best practices<br>🔹 Always learning and improving<br>🔹 Excited to contribute to open-source and real-world projects<br><br>Let’s connect and build something amazing! 🚀
+<br>Aspiring Developer | Passionate About Coding & Problem-Solving<br><br>I am a developer with a strong interest in building user-friendly applications and learning new technologies. Currently exploring [Android/Web Development], I enjoy working with [ Java, Kotlin, HTML, CSS, JavaScript]. I am eager to collaborate on projects that challenge me and help me grow as a developer.<br><br>🔹 Passionate about clean code & best practices<br>🔹 Always learning and improving<br>🔹 Excited to contribute to open-source and real-world projects<br><br>Let’s connect and build something amazing! 🚀
 
 
 ## 🌐 Socials:
